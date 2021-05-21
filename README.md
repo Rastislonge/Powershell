@@ -1,2 +1,2 @@
-# Powershell
+# Powershell Script
 Powershell projects
